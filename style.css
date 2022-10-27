@@ -1,0 +1,24 @@
+/* .img-fluid{
+    max-width: 100%;
+    height: auto;
+    position: absolute;
+} */
+/* .home-banner {
+    background-image: url("https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=838&q=80");
+    max-width: fit-content;
+    height: auto;
+} */
+.fw-light1{
+    font-weight: lighter;
+    font-size: 8vw;
+}
+.fw-bold1{
+    font-weight: bold;
+    font-size: 8vw;
+}
+.cont1{
+    height: 10px;
+    width: 75px;
+    color: red;
+    margin-bottom: 5px;
+}
